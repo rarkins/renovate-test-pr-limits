@@ -1,4 +1,5 @@
 {
   "prCreation": "immediate",
+  "dependencyDashboard": true,
   "prConcurrentLimit": 2
 }
