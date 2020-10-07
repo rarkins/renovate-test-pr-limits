@@ -1,4 +1,4 @@
 {
-  "prCreation": "not-pending",
+  "prCreation": "immediate",
   "prConcurrentLimit": 2
 }
